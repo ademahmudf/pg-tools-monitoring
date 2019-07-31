@@ -1,2 +1,0 @@
-Tue Jul 30 10:47:35 WIB 2019 current_xlog_location on master : 0/F8DCA368
-Tue Jul 30 10:47:35 WIB 2019 last_xlog_receive_location on slave : 0/F8DCA368
