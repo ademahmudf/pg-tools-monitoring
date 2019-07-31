@@ -1,0 +1,252 @@
+Wed Jul 31 01:32:23 EDT 2019 current_xlog_location on master : 1/27E90438
+Wed Jul 31 01:32:23 EDT 2019 last_xlog_receive_location on slave : 1/27E90438
+Wed Jul 31 01:32:23 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 01:32:23 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 01:35:37 EDT 2019 current_xlog_location on master : 1/27E90510
+Wed Jul 31 01:35:37 EDT 2019 last_xlog_receive_location on slave : 1/27E90510
+Wed Jul 31 01:35:37 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 01:35:37 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 01:45:01 EDT 2019 current_xlog_location on master : 1/27E905E8
+Wed Jul 31 01:45:01 EDT 2019 last_xlog_receive_location on slave : 1/27E905E8
+Wed Jul 31 01:45:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 01:45:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 01:50:01 EDT 2019 current_xlog_location on master : 1/27E906C0
+Wed Jul 31 01:50:01 EDT 2019 last_xlog_receive_location on slave : 1/27E906C0
+Wed Jul 31 01:50:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 01:50:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 01:55:01 EDT 2019 current_xlog_location on master : 1/27E90798
+Wed Jul 31 01:55:01 EDT 2019 last_xlog_receive_location on slave : 1/27E90798
+Wed Jul 31 01:55:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 01:55:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 02:00:01 EDT 2019 current_xlog_location on master : 1/27E90870
+Wed Jul 31 02:00:01 EDT 2019 last_xlog_receive_location on slave : 1/27E90870
+Wed Jul 31 02:00:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 02:00:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 02:05:01 EDT 2019 current_xlog_location on master : 1/27E90948
+Wed Jul 31 02:05:01 EDT 2019 last_xlog_receive_location on slave : 1/27E90948
+Wed Jul 31 02:05:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 02:05:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 02:10:01 EDT 2019 current_xlog_location on master : 1/27E90A20
+Wed Jul 31 02:10:01 EDT 2019 last_xlog_receive_location on slave : 1/27E90A20
+Wed Jul 31 02:10:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 02:10:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 02:15:01 EDT 2019 current_xlog_location on master : 1/27E90AF8
+Wed Jul 31 02:15:01 EDT 2019 last_xlog_receive_location on slave : 1/27E90AF8
+Wed Jul 31 02:15:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 02:15:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 02:20:01 EDT 2019 current_xlog_location on master : 1/27E90BD0
+Wed Jul 31 02:20:01 EDT 2019 last_xlog_receive_location on slave : 1/27E90BD0
+Wed Jul 31 02:20:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 02:20:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 02:25:01 EDT 2019 current_xlog_location on master : 1/27E90CA8
+Wed Jul 31 02:25:01 EDT 2019 last_xlog_receive_location on slave : 1/27E90CA8
+Wed Jul 31 02:25:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 02:25:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 02:30:01 EDT 2019 current_xlog_location on master : 1/27E90D80
+Wed Jul 31 02:30:01 EDT 2019 last_xlog_receive_location on slave : 1/27E90D80
+Wed Jul 31 02:30:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 02:30:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 02:35:01 EDT 2019 current_xlog_location on master : 1/27E90E58
+Wed Jul 31 02:35:01 EDT 2019 last_xlog_receive_location on slave : 1/27E90E58
+Wed Jul 31 02:35:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 02:35:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 02:40:01 EDT 2019 current_xlog_location on master : 1/27E90F30
+Wed Jul 31 02:40:01 EDT 2019 last_xlog_receive_location on slave : 1/27E90F30
+Wed Jul 31 02:40:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 02:40:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 02:45:01 EDT 2019 current_xlog_location on master : 1/27E91008
+Wed Jul 31 02:45:01 EDT 2019 last_xlog_receive_location on slave : 1/27E91008
+Wed Jul 31 02:45:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 02:45:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 02:50:01 EDT 2019 current_xlog_location on master : 1/27E910E0
+Wed Jul 31 02:50:01 EDT 2019 last_xlog_receive_location on slave : 1/27E910E0
+Wed Jul 31 02:50:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 02:50:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 02:55:01 EDT 2019 current_xlog_location on master : 1/27E911B8
+Wed Jul 31 02:55:01 EDT 2019 last_xlog_receive_location on slave : 1/27E911B8
+Wed Jul 31 02:55:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 02:55:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:00:01 EDT 2019 current_xlog_location on master : 1/27E91290
+Wed Jul 31 03:00:01 EDT 2019 last_xlog_receive_location on slave : 1/27E91290
+Wed Jul 31 03:00:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:00:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:04:03 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:04:03 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:04:03 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:04:03 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:04:10 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:04:10 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:04:10 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:04:10 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:05:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:05:01 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:05:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:05:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:05:45 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:05:45 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:05:45 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:05:45 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:10:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:10:01 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:10:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:10:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:15:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:15:01 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:15:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:15:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:20:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:20:01 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:20:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:20:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:25:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:25:01 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:25:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:25:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:30:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:30:01 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:30:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:30:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:35:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:35:01 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:35:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:35:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:40:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:40:01 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:40:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:40:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:43:19 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:43:19 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:43:19 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:43:19 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:44:02 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:44:02 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:44:02 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:44:02 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:45:02 EDT 2019 current_xlog_location on master :
+Wed Jul 31 03:45:02 EDT 2019 last_xlog_receive_location on slave : 1/27E91368
+Wed Jul 31 03:45:02 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:45:02 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:46:05 EDT 2019 current_xlog_location on master : 1/27E93150
+Wed Jul 31 03:46:05 EDT 2019 last_xlog_receive_location on slave : 1/27E93150
+Wed Jul 31 03:46:05 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:46:05 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:50:01 EDT 2019 current_xlog_location on master : 1/27E93228
+Wed Jul 31 03:50:01 EDT 2019 last_xlog_receive_location on slave : 1/27E93228
+Wed Jul 31 03:50:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:50:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 03:55:01 EDT 2019 current_xlog_location on master : 1/27E93300
+Wed Jul 31 03:55:01 EDT 2019 last_xlog_receive_location on slave : 1/27E93300
+Wed Jul 31 03:55:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 03:55:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 04:00:01 EDT 2019 current_xlog_location on master : 1/27E933D8
+Wed Jul 31 04:00:01 EDT 2019 last_xlog_receive_location on slave : 1/27E933D8
+Wed Jul 31 04:00:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 04:00:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 04:05:01 EDT 2019 current_xlog_location on master : 1/27E934B0
+Wed Jul 31 04:05:01 EDT 2019 last_xlog_receive_location on slave : 1/27E934B0
+Wed Jul 31 04:05:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 04:05:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 04:10:01 EDT 2019 current_xlog_location on master : 1/27E93588
+Wed Jul 31 04:10:01 EDT 2019 last_xlog_receive_location on slave : 1/27E93588
+Wed Jul 31 04:10:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 04:10:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 04:15:01 EDT 2019 current_xlog_location on master : 1/27E93660
+Wed Jul 31 04:15:01 EDT 2019 last_xlog_receive_location on slave : 1/27E93660
+Wed Jul 31 04:15:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 04:15:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 04:20:01 EDT 2019 current_xlog_location on master : 1/27E93738
+Wed Jul 31 04:20:01 EDT 2019 last_xlog_receive_location on slave : 1/27E93738
+Wed Jul 31 04:20:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 04:20:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 04:25:01 EDT 2019 current_xlog_location on master : 1/27E93810
+Wed Jul 31 04:25:01 EDT 2019 last_xlog_receive_location on slave : 1/27E93810
+Wed Jul 31 04:25:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 04:25:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 04:30:01 EDT 2019 current_xlog_location on master : 1/27E938E8
+Wed Jul 31 04:30:01 EDT 2019 last_xlog_receive_location on slave : 1/27E938E8
+Wed Jul 31 04:30:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 04:30:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 04:35:01 EDT 2019 current_xlog_location on master : 1/27E939C0
+Wed Jul 31 04:35:01 EDT 2019 last_xlog_receive_location on slave : 1/27E939C0
+Wed Jul 31 04:35:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 04:35:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 04:40:01 EDT 2019 current_xlog_location on master : 1/27E93A98
+Wed Jul 31 04:40:01 EDT 2019 last_xlog_receive_location on slave : 1/27E93A98
+Wed Jul 31 04:40:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 04:40:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 13:10:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 13:10:01 EDT 2019 last_xlog_receive_location on slave :
+Wed Jul 31 13:10:01 EDT 2019
+Wed Jul 31 13:10:01 EDT 2019
+Wed Jul 31 13:13:06 EDT 2019 current_xlog_location on master : 1/27E95F90
+Wed Jul 31 13:13:06 EDT 2019 last_xlog_receive_location on slave :
+Wed Jul 31 13:13:06 EDT 2019
+Wed Jul 31 13:13:06 EDT 2019
+Wed Jul 31 13:13:49 EDT 2019 current_xlog_location on master : 1/27E95F90
+Wed Jul 31 13:13:49 EDT 2019 last_xlog_receive_location on slave :
+Wed Jul 31 13:13:49 EDT 2019
+Wed Jul 31 13:13:49 EDT 2019
+Wed Jul 31 13:14:30 EDT 2019 current_xlog_location on master : 1/27E95F90
+Wed Jul 31 13:14:30 EDT 2019 last_xlog_receive_location on slave :
+Wed Jul 31 13:14:30 EDT 2019
+Wed Jul 31 13:14:30 EDT 2019
+Wed Jul 31 13:14:56 EDT 2019 current_xlog_location on master : 1/27E95F90
+Wed Jul 31 13:14:56 EDT 2019 last_xlog_receive_location on slave : 1/27000000
+Wed Jul 31 13:14:56 EDT 2019 replication_lag ----------------- (1 row)
+Wed Jul 31 13:14:56 EDT 2019 replication_delay_bytes ------------------------- -15294352 (1 row)
+Wed Jul 31 13:15:01 EDT 2019 current_xlog_location on master : 1/27E95F90
+Wed Jul 31 13:15:01 EDT 2019 last_xlog_receive_location on slave : 1/27000000
+Wed Jul 31 13:15:01 EDT 2019 replication_lag ----------------- (1 row)
+Wed Jul 31 13:15:01 EDT 2019 replication_delay_bytes ------------------------- -15294352 (1 row)
+Wed Jul 31 13:15:31 EDT 2019 current_xlog_location on master : 1/27E95F90
+Wed Jul 31 13:15:31 EDT 2019 last_xlog_receive_location on slave : 1/27000000
+Wed Jul 31 13:15:31 EDT 2019 replication_lag ----------------- (1 row)
+Wed Jul 31 13:15:31 EDT 2019 replication_delay_bytes ------------------------- -15294352 (1 row)
+Wed Jul 31 13:20:01 EDT 2019 current_xlog_location on master : 1/27E97780
+Wed Jul 31 13:20:01 EDT 2019 last_xlog_receive_location on slave : 1/27E97780
+Wed Jul 31 13:20:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 13:20:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 13:20:28 EDT 2019 current_xlog_location on master : 1/27E977B8
+Wed Jul 31 13:20:28 EDT 2019 last_xlog_receive_location on slave : 1/27E977B8
+Wed Jul 31 13:20:28 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 13:20:28 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 13:25:01 EDT 2019 current_xlog_location on master : 1/27E97890
+Wed Jul 31 13:25:01 EDT 2019 last_xlog_receive_location on slave : 1/27E97890
+Wed Jul 31 13:25:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 13:25:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 13:30:01 EDT 2019 current_xlog_location on master : 1/27E97968
+Wed Jul 31 13:30:01 EDT 2019 last_xlog_receive_location on slave : 1/27E97968
+Wed Jul 31 13:30:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 13:30:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 13:35:01 EDT 2019 current_xlog_location on master : 1/27E97A40
+Wed Jul 31 13:35:01 EDT 2019 last_xlog_receive_location on slave : 1/27E97A40
+Wed Jul 31 13:35:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 13:35:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 13:40:01 EDT 2019 current_xlog_location on master : 1/27E97B18
+Wed Jul 31 13:40:01 EDT 2019 last_xlog_receive_location on slave : 1/27E97B18
+Wed Jul 31 13:40:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 13:40:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 13:45:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 13:45:01 EDT 2019 last_xlog_receive_location on slave : 1/27E97B18
+Wed Jul 31 13:45:01 EDT 2019 replication_lag ----------------- 0 (1 row)
+Wed Jul 31 13:45:01 EDT 2019 replication_delay_bytes ------------------------- 0 (1 row)
+Wed Jul 31 13:50:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 13:50:01 EDT 2019 last_xlog_receive_location on slave :
+Wed Jul 31 13:50:01 EDT 2019 replication_lag ----------------- (1 row)
+Wed Jul 31 13:50:01 EDT 2019 replication_delay_bytes ------------------------- (1 row)
+Wed Jul 31 13:55:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 13:55:01 EDT 2019 last_xlog_receive_location on slave :
+Wed Jul 31 13:55:01 EDT 2019 replication_lag ----------------- (1 row)
+Wed Jul 31 13:55:01 EDT 2019 replication_delay_bytes ------------------------- (1 row)
+Wed Jul 31 14:00:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 14:00:01 EDT 2019 last_xlog_receive_location on slave :
+Wed Jul 31 14:00:01 EDT 2019 replication_lag ----------------- (1 row)
+Wed Jul 31 14:00:01 EDT 2019 replication_delay_bytes ------------------------- (1 row)
+Wed Jul 31 14:05:02 EDT 2019 current_xlog_location on master :
+Wed Jul 31 14:05:02 EDT 2019 last_xlog_receive_location on slave :
+Wed Jul 31 14:05:02 EDT 2019 replication_lag ----------------- (1 row)
+Wed Jul 31 14:05:02 EDT 2019 replication_delay_bytes ------------------------- (1 row)
+Wed Jul 31 14:10:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 14:10:01 EDT 2019 last_xlog_receive_location on slave :
+Wed Jul 31 14:10:01 EDT 2019 replication_lag ----------------- (1 row)
+Wed Jul 31 14:10:01 EDT 2019 replication_delay_bytes ------------------------- (1 row)

@@ -1,0 +1,4 @@
+Wed Jul 31 13:55:01 EDT 2019 current_xlog_location on master :
+Wed Jul 31 13:55:01 EDT 2019 last_xlog_receive_location on slave :
+Wed Jul 31 13:55:01 EDT 2019 replication_lag ----------------- (1 row)
+Wed Jul 31 13:55:01 EDT 2019 replication_delay_bytes ------------------------- (1 row)
